@@ -1,0 +1,10 @@
+=== SUMMARY ===
+Total Profit (USD): 229.8
+Total Profit (PHP): 14238.76
+
+=== TOP 5 PRODUCTS BY LOCAL PROFIT ===
+Standard Strollers - 2230.72
+Fences and Gates - 1734.98
+Counter Stools - 1363.17
+Dressers - 1261.17
+Beab Bag Loungers and Daybed - 1189.66
