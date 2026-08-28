@@ -24,3 +24,19 @@ Here’s what the script looks like when running in PowerShell:
 Run the script:
 ```powershell
 python sheetdb_test.py
+## 📝 Beginner Setup Guide
+
+Follow these steps to run the project even if you are new to Python:
+
+### 1. Install Python
+- Download and install Python 3.x from [python.org](https://www.python.org/downloads/).
+- During installation, check the box **"Add Python to PATH"**.
+
+### 2. Install Required Libraries
+Open PowerShell and run:
+```powershell
+pip install requests beautifulsoup4 pandas flask
+git clone https://github.com/camilagnicole346-boop/ecommerce-analysis.git
+cd ecommerce-analysis
+python sheetdb_test.py
+python app.py
