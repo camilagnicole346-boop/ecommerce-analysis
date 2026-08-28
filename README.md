@@ -11,3 +11,16 @@ The output is displayed in PowerShell and saved into `result.txt`.
 3. Install the `requests` library:
    ```bash
    pip install requests
+## 📊 Sample Output
+Here’s what the script looks like when running in PowerShell:
+
+![PowerShell Output](Screenshot%202026-08-28%20124408.png)
+
+![Result File](Screenshot%202026-08-28%20124439.png)
+
+---
+
+## 💾 How to Save Results
+Run the script:
+```powershell
+python sheetdb_test.py
